@@ -1,0 +1,1 @@
+insert into car (id,make,model,year,color,vin_number) values(5000,'Chevy','Equinox','2014-01-01','Orange',12349);
